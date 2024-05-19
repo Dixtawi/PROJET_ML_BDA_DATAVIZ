@@ -2,11 +2,10 @@
 
 https://huggingface.co/datasets/d0r1h/customer_churn
 
-
 **Grandes étapes :**
 
 * Traitement des Données
-* Analyse et visualisation et exploratoire des Données
+* Analyse et visualisation exploratoire des Données
 * Description de problème sous forme ML
 * evaluation de plusieurs modèles avec les bonnes métriques
 * Visualiser et interpreter les résultats
